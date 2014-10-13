@@ -8,7 +8,7 @@
 
 # Objective 1. Pick your public policy change issue.
 
-{{input your team's choice here}}
+Ebola
 
 # Objective 2. Analyze & discuss your issue.
 
