@@ -1,10 +1,10 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Josh Ferge](https://github.com/JoshFerge)
+* [Irfan Nadiadi](https://github.com/Irfann1)
+* [Michael Fyk](https://github.com/thefyk)
+* [Logan Bates](https://github.com/LoganBates)
+* [Justin McBride](https://github.com/dare599z)
 
 # Objective 1. Pick your public policy change issue.
 
