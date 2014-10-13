@@ -1,14 +1,15 @@
 # Team Members
 
-* [Michael-Aaron](https://github.com/develra)
-* [Alex-](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Alexia Newgord](https://github.com/alne4294)
+* [Niklas Fejes](https://github.com/nfejes)
+* [Alex Tsankov](https://github.com/antsankov)
+* [Jake Charland](https://github.com/jakecharland)
+* [Michael Aaron](https://github.com/develra)
+)
 
 # Objective 1. Pick your public policy change issue.
 
-Ebola! 
+Media activity around Ebola in the United States
 
 # Objective 2. Analyze & discuss your issue.
 
@@ -52,4 +53,4 @@ of the source URL.
 2. We must kill all people with Ebola before we allow the disease to spread; for the greater good. (But seriously, our analysis was more of an examination of the focus of media as opposed to public policy suggestions. CDC appears to be preaching the "Think Ebola" methodology at the moment, this seems reasonable.)
 
 3. See Above
-![additional supporting screenshots](image.png?raw=true) 
+![additional supporting screenshots](image.png?raw=true)
