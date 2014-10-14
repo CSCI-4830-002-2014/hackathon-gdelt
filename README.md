@@ -14,7 +14,7 @@
 
 ## Related Events Increase/Decrease
 
-![screenshot of the related events analysis](image.png?raw=true)
+![screenshot of the related events analysis](https://www.dropbox.com/s/d5jxnyqq8u3xgwi/Screenshot%202014-10-13%2018.45.38.png?dl=1)
 
 ```sql
 SELECT *,
@@ -27,6 +27,13 @@ SELECT *,
   OR   SOURCEURL CONTAINS "law")
   AND NOT SOURCEURL CONTAINS "help";
 ```
+
+As you can see, there are certain days which have tons of activity with respect
+to homelessness and law. In particular January 7th had issues about homelessness
+with coldfronts in the weather. Overall, it seemed that the data about criminalization
+of homelessness got drowned out by data about the homeless.
+
+
 
 {{discuss whether this is "good" or "bad"}}
 
