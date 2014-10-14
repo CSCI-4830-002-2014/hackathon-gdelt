@@ -16,7 +16,7 @@ Ebola
 
 ![screenshot of the related events analysis](image.png?raw=true) 
 
-{{discuss whether this is "good" or "bad"}}
+We saw an increase in the number of articles related to humanitarian aid after September 16th, which could be correlated to the US announcement. This may be good.
 
 ## Actors Involved
 
