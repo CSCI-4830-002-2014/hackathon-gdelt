@@ -24,6 +24,7 @@ This second graph further emphasises the fact that the press volume in the US be
 ## Georeferencing
 
 ![an image/images of the different ways you can use georeferencing](analysis3.png?raw=true) 
+Clearly Texas cared alot about the Ebola outbreak in Texas...But besides that, we can see that the US had plenty of press coverage on Ebola before it directly affected us.
 
 ## Source URLs
 
