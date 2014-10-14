@@ -41,7 +41,9 @@ of homelessness got drowned out by data about the homeless.
 
 ![screenshot of actors involved analysis](Analysis2.png?raw=true)
 
-We can infer that the United States Government and Police Officers are the ones dealing with homelessness, as well as foreign governments. Most of the sectors are red, which shows that actions taken against homelessness is destabilizing society in areas where these actors are. It's strange that Wells Fargo is positive.  However, the Marines have a very negative effect on society with regards to homelessness.
+![United States Actors Relative to Artile Mentions on Goldstein Scale](http://imgur.com/qxqMGzY.png)
+
+We can infer that the most article mentions comes out of the state of California. Los Angeles has a red Goldstein scale which related to negative results within the state. Murfreesboro is mainly on the negative side of Goldstein scale and has no beneficial articles relative to homelessness. This shows that places like Los Angeles, Murfreesboro, and the state of West Virginia are main places where homeless people are criminalized. 
 
 ## Georeferencing
 
