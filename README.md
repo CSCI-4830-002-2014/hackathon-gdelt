@@ -46,4 +46,6 @@ For further analysis, a heatmap of Actor type code is produced, and it can be ob
 
 While filtering for event code 73, 'Providing Humanitarian Aid', a worldwide increase is observed from September 15th to September 16th, as shown on the map.
 
+Overall, there was likely a correlation between Obama's speech and humanitarian aid being given, which could be assumed to be aid being provided to West Africa.
+
 ![additional supporting screenshots](image.png?raw=true) 
