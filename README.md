@@ -41,7 +41,7 @@ of homelessness got drowned out by data about the homeless.
 
 ![screenshot of actors involved analysis](Analysis2.png?raw=true)
 
-We can infer that the United States Government and Police Officers are the ones dealing with homelessness, as well as foreign governments. Most of the sectors are red, which shows that actions taken against homelessness is destabilizing society in areas where these actors are/ It's strange that Wells Fargo is positive.  However, the Marines have a very negative effect on society with regards to homelessness.
+We can infer that the United States Government and Police Officers are the ones dealing with homelessness, as well as foreign governments. Most of the sectors are red, which shows that actions taken against homelessness is destabilizing society in areas where these actors are. It's strange that Wells Fargo is positive.  However, the Marines have a very negative effect on society with regards to homelessness.
 
 ## Georeferencing
 
