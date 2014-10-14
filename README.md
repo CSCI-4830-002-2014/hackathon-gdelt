@@ -36,5 +36,3 @@ Interestingly, we found the response to the crisis in America and Africa were ac
 It would be nice to sort articles on more than just "ebola" in the URL, we could hopefully pursue this in the future.
 
 This was not necessarily a public policy pursuit.  But airports should be aware of cases, and news outlets should report equally on international and local crises.  This is done fairly well according to this (quite minimal) research.
-
-![additional supporting screenshots](image.png?raw=true) 
