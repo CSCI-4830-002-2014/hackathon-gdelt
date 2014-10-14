@@ -15,14 +15,12 @@
 ## Related Events Increase/Decrease
 
 ![screenshot of the related events analysis](analysis1.png?raw=true) 
-
-{{discuss whether this is "good" or "bad"}}
+This data is "good". Why do we say that? Because we are able to assume the world cared about the ebola outbreak before it reached outside of Africa. We can determine based upon our graphs that there was press coverage around the world before it reached anywhere outside Africa.
 
 ## Actors Involved
 
 ![screenshot of actors involved analysis](analysis2.png?raw=true) 
-
-{{discuss whether you can infer anything from this}}
+This second graph further emphasises the fact that the press volume in the US before the outbreak here was still ~equally large. It shows the US cared about Ebola before it was here.
 
 ## Georeferencing
 
