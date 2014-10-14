@@ -34,8 +34,9 @@ We sorted by 'Provide humanitarian aid' and found that after the speech, there w
 
 ## Source URLs
 
-![an image of your source URL analysis](image.png?raw=true) 
+![an image of your source URL analysis](object4.png?raw=true) 
 
+We saw a high mention of Obama's speech sourceURL on the day of the event which means that his words were being spread. This probably increased the influence of his speech.
 ## Conclusions
 
 Hypothesis: After the US Announcment pressing world leaders to speed Ebola response, an increase in the providing of humanitarian aid should be observed worldwide.
