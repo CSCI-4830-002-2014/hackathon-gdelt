@@ -32,9 +32,9 @@ SELECT *,
 
 ## Actors Involved
 
-![screenshot of actors involved analysis](image.png?raw=true)
+![United States Actors Relative to Artile Mentions on Goldstein Scale](http://imgur.com/qxqMGzY.png)
 
-{{discuss whether you can infer anything from this}}
+We can infer that the most article mentions comes out of the state of California. Los Angeles has a red Goldstein scale which related to negative results within the state. Murfreesboro is mainly on the negative side of Goldstein scale and has no beneficial articles relative to homelessness. This shows that places like Los Angeles, Murfreesboro, and the state of West Virginia are main places where homeless people are criminalized. 
 
 ## Georeferencing
 
