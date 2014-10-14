@@ -33,10 +33,6 @@ to homelessness and law. In particular January 7th had issues about homelessness
 with coldfronts in the weather. Overall, it seemed that the data about criminalization
 of homelessness got drowned out by data about the homeless.
 
-
-
-{{discuss whether this is "good" or "bad"}}
-
 ## Actors Involved
 
 ![screenshot of actors involved analysis](AnalysisActors.png?raw=true)
@@ -56,8 +52,6 @@ There is more articles abouts homelessness in the summer, and the winter months 
 
 ## Conclusions
 
-{{a short write up of your team's analysis}}
+Using an SQL parsing script, we pulled lots of sources that revolved around buzz words like "criminal" and "homeless". Our data was definitely trending for the criminalization of homelessness, but the data was very messy and came with a lot of baggage. The data we found was very interesting and definitely met our hypotheses, but it wasn't factual enough to prove the trends with the data alone.
 
-{{your hypothesis on this public policy change}}
-
-![additional supporting screenshots](image.png?raw=true)
+You can see that, especially from the Georeferencing screenshot, that there is a high correlation between the number of articles, the Goldstein scale, and the states/cities where we found homelessness to be a problem. It's very clear that California is having a problem with this, but there is a negative ranking on the Goldstein scale, indicating (perhaps) that people are not on board with the idea of criminalizing homelessness. Hawaii and other places in Europe also follow this trend. Essentially, when there is a high number of articles surrounding this issue, most people aren't on board with the actions the government is taking.
