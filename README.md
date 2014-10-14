@@ -27,7 +27,10 @@ Not suprisingly, Hospitals, physicians, doctors, and nurses are the most common 
 
 ## Georeferencing
 
-![an image/images of the different ways you can use georeferencing](image.png?raw=true) 
+![an image/images of the different ways you can use georeferencing](object3a.png?raw=true) 
+![an image/images of the different ways you can use georeferencing](object3b.png?raw=true) 
+
+We sorted by 'Provide humanitarian aid' and found that after the speech, there was an increase in humanitarian aid provided increased globally, especially in the US and Africa.
 
 ## Source URLs
 
