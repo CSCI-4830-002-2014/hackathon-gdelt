@@ -8,7 +8,7 @@
 
 # Objective 1. Pick your public policy change issue.
 
-{{input your team's choice here}}
+* [Criminalization of Homelessness](http://nationalhomeless.org/issues/civil-rights/)
 
 # Objective 2. Analyze & discuss your issue.
 
