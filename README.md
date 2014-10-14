@@ -32,9 +32,9 @@ SELECT *,
 
 ## Actors Involved
 
-![screenshot of actors involved analysis](image.png?raw=true)
+![screenshot of actors involved analysis](Analysis2.png?raw=true)
 
-{{discuss whether you can infer anything from this}}
+We can infer that the United States Government and Police Officers are the ones dealing with homelessness, as well as foreign governments. We can also infer that their actions are relatively benign based on the Goldstein Scale. Groups like Amnesty International tend to have a positive score. However, the Marines have a very negative effect on society with regards to homelessness.
 
 ## Georeferencing
 
