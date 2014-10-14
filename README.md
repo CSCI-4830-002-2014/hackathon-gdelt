@@ -1,14 +1,13 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Dawson Botsford](https://github.com/dawsonbotsford)
+* [Peyman Mortazavi](https://github.com/peymanmortazavi)
+* [Brian Newsom](https://github.com/BrianNewsom/)
+* [Adrian Chen](https://github.com/adrian-chen/)
 
 # Objective 1. Pick your public policy change issue.
 
-{{input your team's choice here}}
+Ebola
 
 # Objective 2. Analyze & discuss your issue.
 
