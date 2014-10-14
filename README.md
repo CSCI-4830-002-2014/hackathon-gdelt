@@ -28,6 +28,11 @@ SELECT *,
   AND NOT SOURCEURL CONTAINS "help";
 ```
 
+As you can see, there are certain days which have tons of activity with respect
+to homelessness and law. In particular January 7th had issues about homelessness
+with coldfronts in the weather. Overall, it seemed that the data about criminalization
+of homelessness got drowned out by data about the homeless.
+
 
 
 {{discuss whether this is "good" or "bad"}}
