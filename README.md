@@ -51,7 +51,8 @@ We can infer that the most article mentions comes out of the state of California
 
 ## Source URLs
 
-![an image of your source URL analysis](image.png?raw=true)
+![an image of your source URL analysis](Q4.png)
+There is more articles abouts homelessness in the summer, and the winter months when the issues facing the homeless are the most apparent.
 
 ## Conclusions
 
