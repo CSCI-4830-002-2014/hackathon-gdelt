@@ -14,23 +14,23 @@
 
 ## Related Events Increase/Decrease
 
-![screenshot of the related events analysis](image.png?raw=true) 
+![screenshot of the related events analysis](analysis1.png?raw=true) 
 
 {{discuss whether this is "good" or "bad"}}
 
 ## Actors Involved
 
-![screenshot of actors involved analysis](image.png?raw=true) 
+![screenshot of actors involved analysis](analysis2.png?raw=true) 
 
 {{discuss whether you can infer anything from this}}
 
 ## Georeferencing
 
-![an image/images of the different ways you can use georeferencing](image.png?raw=true) 
+![an image/images of the different ways you can use georeferencing](analysis3.png?raw=true) 
 
 ## Source URLs
 
-![an image of your source URL analysis](image.png?raw=true) 
+![an image of your source URL analysis](analysis1.png?raw=true) 
 
 ## Conclusions
 
