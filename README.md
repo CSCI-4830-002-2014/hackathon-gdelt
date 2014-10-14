@@ -35,8 +35,12 @@ Not suprisingly, Hospitals, physicians, doctors, and nurses are the most common 
 
 ## Conclusions
 
-{{a short write up of your team's analysis}}
+Hypothesis: After the US Announcment pressing world leaders to speed Ebola response, an increase in the providing of humanitarian aid should be observed worldwide.
 
-{{your hypothesis on this public policy change}}
+Our analysis began by observing the trend in the goldstein scale over the course of a week, beginning on September 14th. It's immediately obvious that there is an increase on September 16th, which continues to trend upward.
+
+For further analysis, a heatmap of Actor type code is produced, and it can be observed that events including 'HOSPITAL', 'DOCTOR', 'PHYSICIAN', and 'SOCIAL WORKER' are among those with the most records.
+
+While filtering for event code 73, 'Providing Humanitarian Aid', a worldwide increase is observed from September 15th to September 16th, as shown on the map.
 
 ![additional supporting screenshots](image.png?raw=true) 
