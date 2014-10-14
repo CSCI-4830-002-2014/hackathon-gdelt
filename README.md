@@ -14,9 +14,9 @@ Ebola
 
 ## Related Events Increase/Decrease
 
-![screenshot of the related events analysis](image.png?raw=true) 
+![screenshot of the related events analysis](object1.png?raw=true) 
 
-{{discuss whether this is "good" or "bad"}}
+We see an increase in events pertaining to requests for humanitarian aid. This could definitely been seen as a correlation with Obama's address for global intervention with the ebola outbreak. These requests have good intentions and we see that their numbers have increased so we would say that this increasing trend was good.
 
 ## Actors Involved
 
