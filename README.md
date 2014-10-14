@@ -21,9 +21,9 @@ We see an increase in events pertaining to requests for humanitarian aid. This c
 
 ## Actors Involved
 
-![screenshot of actors involved analysis](image.png?raw=true) 
+![screenshot of actors involved analysis](http://i.imgur.com/45VZ3ib.png) 
 
-{{discuss whether you can infer anything from this}}
+Not suprisingly, Hospitals, physicians, doctors, and nurses are the most common actors. It might be interesting that the US and China are also large actors as well.
 
 ## Georeferencing
 
