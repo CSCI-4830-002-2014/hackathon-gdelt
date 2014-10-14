@@ -31,8 +31,10 @@ This second graph further emphasises the fact that the press volume in the US be
 
 ## Conclusions
 
-{{a short write up of your team's analysis}}
+Interestingly, we found the response to the crisis in America and Africa were actually quite similar.  Though the case in Houston had a 10% increase in events over that of the escalation to Level 3 WHO rating, this was a much smaller difference than we expected.
 
-{{your hypothesis on this public policy change}}
+It would be nice to sort articles on more than just "ebola" in the URL, we could hopefully pursue this in the future.
+
+This was not necessarily a public policy pursuit.  But airports should be aware of cases, and news outlets should report equally on international and local crises.  This is done fairly well according to this (quite minimal) research.
 
 ![additional supporting screenshots](image.png?raw=true) 
