@@ -1,10 +1,10 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Austin Wood](https://github.com/indiesquidge)
+* [Ian Ker-Seymer](https://github.com/ianks)
+* [Chris Wittenberg](https://github.com/cwitty1919)
+* [Sam Korn](https://github.com/sako0938)
+* [Daniel Nolan](https://github.com/dano8957)
 
 # Objective 1. Pick your public policy change issue.
 
@@ -14,23 +14,23 @@
 
 ## Related Events Increase/Decrease
 
-![screenshot of the related events analysis](image.png?raw=true) 
+![screenshot of the related events analysis](image.png?raw=true)
 
 {{discuss whether this is "good" or "bad"}}
 
 ## Actors Involved
 
-![screenshot of actors involved analysis](image.png?raw=true) 
+![screenshot of actors involved analysis](image.png?raw=true)
 
 {{discuss whether you can infer anything from this}}
 
 ## Georeferencing
 
-![an image/images of the different ways you can use georeferencing](image.png?raw=true) 
+![an image/images of the different ways you can use georeferencing](image.png?raw=true)
 
 ## Source URLs
 
-![an image of your source URL analysis](image.png?raw=true) 
+![an image of your source URL analysis](image.png?raw=true)
 
 ## Conclusions
 
@@ -38,4 +38,4 @@
 
 {{your hypothesis on this public policy change}}
 
-![additional supporting screenshots](image.png?raw=true) 
+![additional supporting screenshots](image.png?raw=true)
