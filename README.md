@@ -16,6 +16,18 @@
 
 ![screenshot of the related events analysis](image.png?raw=true)
 
+```sql
+SELECT *,
+  FROM [gdelt-bq:full.events]
+  WHERE SOURCEURL CONTAINS "homeless"
+  AND (SOURCEURL CONTAINS "legal"
+  OR   SOURCEURL CONTAINS "criminal"
+  OR   SOURCEURL CONTAINS "rights"
+  OR   SOURCEURL CONTAINS "prohibit"
+  OR   SOURCEURL CONTAINS "law")
+  AND NOT SOURCEURL CONTAINS "help";
+```
+
 {{discuss whether this is "good" or "bad"}}
 
 ## Actors Involved
